@@ -39,10 +39,5 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 This project is licensed under the [MIT License](LICENSE).
 
 
-
-
-
-
-# disclaimer, we did NOT make UV(Ultraviolet). 
-We take no credit for the making of UV. We do take credit for the tampering and modification to make it Static. Please leave a 
-small link for this github in credits or anywhere you please. Dm Kwazehn Or NC for Branching.
+### Disclamer
+We take no credit for the making of UV. Ultraviolet is made by Titanium Network, and therefore isn't ours. This is just a modification built to it to make it static, allowing you to deploy it on simple hosting platofrms like vercel, netlify, onrender static, and etc. 
