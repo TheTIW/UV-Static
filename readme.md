@@ -37,3 +37,12 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+
+
+
+
+# disclaimer, we did NOT make UV(Ultraviolet). 
+We take no credit for the making of UV. We do take credit for the tampering and modification to make it Static. Please leave a 
+small link for this github in credits or anywhere you please. Dm Kwazehn Or NC for Branching.
