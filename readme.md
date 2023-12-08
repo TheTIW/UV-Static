@@ -1,8 +1,8 @@
 # TIW Static UV
 
-Modified Version of the <a href="https://github.com/titaniumnetwork-dev/Ultraviolet-App" target="blank">Ultraviolet</a> backend. This modification makes the proxy a static website, something no one has ever done before. 
+Modified Version of the <a href="https://github.com/titaniumnetwork-dev/Ultraviolet-App" target="blank">Ultraviolet</a> backend. This modification makes the proxy a static website, something that has never been normalized before. 
 <br> <strong> Our Developers That Worked on This Project: </strong>
-NC Gaming#0058 and kwazeh  <center> Join our discord <a href="https://discord.gg/f8yqSBenuk" target="_blank" style="text-decoration:none;"> here </a><br>
+NC Gaming#0058 and kwazeh  <center> Join our discord <a href="https://discord.com/invite/XctyeqGGt4" target="_blank" style="text-decoration:none;"> here </a><br>
 <a> <img src="static/logo.gif" style="width:25%; align-self:center;"> </img> </a> 
 </center> <br>
 
