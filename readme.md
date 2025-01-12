@@ -1,5 +1,7 @@
-# TIW Static UV
+# This is an archive and is no longer developed. Go to [tf7software/UV-Static](https://github.com/tf7software/UV-Static) for the newest version. Thank you.
+## TIW Static UV
 
+## Old readme:
 Modified Version of the <a href="https://github.com/titaniumnetwork-dev/Ultraviolet-App" target="blank">Ultraviolet</a> backend. This modification changes the proxy **CONFIG**, making it work on static pages. 
 <br> <strong> Our Developers That Worked on This Project: </strong>
 NC Gaming#0058 and kwazeh  <center> Join our discord <a href="https://discord.com/invite/XctyeqGGt4" target="_blank" style="text-decoration:none;"> here </a><br>
